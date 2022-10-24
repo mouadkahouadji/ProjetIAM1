@@ -1,2 +1,2 @@
-def funct(a,b):
+def funct(C,b):
   return(a+b)
